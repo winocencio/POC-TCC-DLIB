@@ -7,3 +7,5 @@ imgLabXmlPath = pathResources + 'imglab/' + imgLabXmlName
 svmFileNameVersion = '0-1'
 svmFileName = 'detectorDlib' + svmFileNameVersion + '.svm'
 svmFilePath = pathResources + 'svm/' + svmFileName
+
+imagesPath = pathResources +'images/'
